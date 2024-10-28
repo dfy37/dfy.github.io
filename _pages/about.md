@@ -1,7 +1,7 @@
-I'm a third year graduate student from Sino-French Engineering School (Ecole Centrale de Pekin), Beihang University. My research interest includes natural language processing, machine learning, and LLM.
+I'm a third year graduate student from Beihang University. My research interest includes natural language processing, machine learning, and LLM.
 
 I am very fortunate to be advised by [Prof. Wenge Rong](https://wgrong.github.io/) of XXX Lab from [School of Computer Science](https://scse.buaa.edu.cn/), Beihang University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/CV.pdf).
+You can find my CV here: [Feiyu Duan's Curriculum Vitae](../assets/CV.pdf).
 
 [Email](duanfeiyu@buaa.edu.cn) / [Github](https://github.com/dfy37) /
