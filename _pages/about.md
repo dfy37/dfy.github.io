@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I'm a third year graduate student from Beihang University. My research interest includes natural language processing, machine learning, and LLM.
 
 I am very fortunate to be advised by [Prof. Wenge Rong](https://wgrong.github.io/) from School of Computer Science, Beihang University.
