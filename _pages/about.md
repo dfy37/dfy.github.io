@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Feiyu Duan"
 excerpt: "Feiyu Duan"
 author_profile: true
 redirect_from: 
