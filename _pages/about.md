@@ -4,4 +4,4 @@ I am very fortunate to be advised by [Prof. Wenge Rong](https://wgrong.github.io
 
 You can find my CV here: [Feiyu Duan's Curriculum Vitae](../assets/CV.pdf).
 
-[Email](duanfeiyu@buaa.edu.cn) / [Github](https://github.com/dfy37) /
+[Email](duanfeiyu@buaa.edu.cn) / [Github](https://github.com/dfy37)
