@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /about.md
 ---
 
 I'm a third year graduate student from Beihang University. My research interest includes natural language processing, machine learning, and LLM.
