@@ -1,6 +1,6 @@
 I'm a third year graduate student from Beihang University. My research interest includes natural language processing, machine learning, and LLM.
 
-I am very fortunate to be advised by [Prof. Wenge Rong](https://wgrong.github.io/) of XXX Lab from [School of Computer Science](https://scse.buaa.edu.cn/), Beihang University.
+I am very fortunate to be advised by [Prof. Wenge Rong](https://wgrong.github.io/) from [School of Computer Science](https://scse.buaa.edu.cn/), Beihang University.
 
 You can find my CV here: [Feiyu Duan's Curriculum Vitae](../assets/CV.pdf).
 
